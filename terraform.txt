@@ -1,0 +1,2 @@
+ provider names will be in .lock file
+when we ran init command provider plugins will be downloaded 
